@@ -2,7 +2,8 @@
   "variants": {
     "": [
       {
-        "model": "minecraft:block/sand"
+        "model": "minecraft:block/sand",
+        "y": 0
       }
     ]
   }
