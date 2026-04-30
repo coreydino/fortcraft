@@ -1,2 +1,10 @@
 {
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/red_sand",
+        "y": 0
+      }
+    ]
+  }
 }
